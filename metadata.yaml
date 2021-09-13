@@ -1,0 +1,44 @@
+_repo: A-Son-of-Ishmael-A-Novel_66110
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Shute, A. B.
+    aliases:
+    - Shute, A. Burnham
+    - Shute, Augustus Burnham
+    birthdate: 1851
+    deathdate: 1906
+    gutenberg_agent_id: '26350'
+    url: http://www.gutenberg.org/2009/agents/26350
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Meade, Mrs. L. T.
+    - Meade, Elizabeth Thomasina
+    - Smith, Elizabeth Thomasina Meade
+    - Thomas, Elizabeth
+    - Mead, L. T.
+    - Meade, Lillie
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: https://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_issued: '2021-08-22'
+identifiers:
+  gutenberg: '66110'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Burglars -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- GITenberg
+title: 'A Son of Ishmael: A Novel'
+url: http://www.gutenberg.org/ebooks/66110
