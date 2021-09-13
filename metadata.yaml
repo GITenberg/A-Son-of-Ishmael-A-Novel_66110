@@ -1,5 +1,5 @@
 _repo: A-Son-of-Ishmael-A-Novel_66110
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Shute, A. B.
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1906
     gutenberg_agent_id: '26350'
     url: http://www.gutenberg.org/2009/agents/26350
+covers:
+- cover_type: archival
+  image_path: 66110-h/images/cover.jpg
 creator:
   author:
     agent_name: Meade, L. T.
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1621
     wikipedia: https://en.wikipedia.org/wiki/L._T._Meade
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66110#A-Son-of-Ishmael-A-Novel
 gutenberg_issued: '2021-08-22'
 identifiers:
   gutenberg: '66110'
